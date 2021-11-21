@@ -68,3 +68,8 @@ pre[class*="language-"] {
     word-break: break-all;
     word-wrap: break-word;
 }
+
+.logo{
+    width: 250px;
+    height: auto;
+}
