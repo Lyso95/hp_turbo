@@ -1,8 +1,24 @@
 :root{
     --primary-color: #bb2020;
-    --secondary-color: #bb993b;
+    --secondary-color: #ff7300;
     --dark-color: #292929;
     --white-color: #e7e7e7;
+}
+.odd{
+    font-weight: 100;
+}
+.even{
+    font-weight: bold;
+}
+.btn-primary{
+    color:#e7e7e7;
+    background-color: #bb2020;
+    border-color:#292929;
+}
+.btn-primary:hover{
+    color: #fff;
+    background-color: #e92929;
+    border-color: #292929;
 }
 
 body{
